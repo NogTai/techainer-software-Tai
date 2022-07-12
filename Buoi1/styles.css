@@ -215,6 +215,11 @@ section{
     font-size: 14px;
 }
 
+.posts .add-comment .right-side-post{
+    color: #c62d8f;
+    
+}
+
 .right-side{
     width: 35%;
     margin-top: 15px;
